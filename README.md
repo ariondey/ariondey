@@ -20,7 +20,7 @@ Hello! My name is Arion and I'm a student studying molecular and cellular biolog
 The realm of biology I (currently) enjoy most is some mixture of immunology, bioinformatics, and systems biology.
 Currently my primary interests lie in the application of machine learning and computational analysis to biological concepts.
 When I have rare additional time, I enjoy spending time talking about football (American and European) and reading philosophy texts.
-I also have a academic interest in philosophy, specifically ethics and metaphysics, so let me know if you want to talk about Kant or Liebnitz
+I also have a academic interest in philosophy, specifically ethics and metaphysics.
 
 
 ## Current
