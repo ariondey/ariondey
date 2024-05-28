@@ -32,7 +32,7 @@ I also have a academic interest in philosophy, specifically ethics and metaphysi
   - Characterizing differences in postural control in community dwelling older adults using clinical measures.
   - Model changes in postural control strategy using MATLAB stochastic control model.
 
-
+* Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab) (SU24-Present)
 
 **Club(s)**
 
