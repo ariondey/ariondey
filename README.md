@@ -32,26 +32,26 @@ I also have a academic interest in philosophy, specifically ethics and metaphysi
   - Characterizing differences in postural control in community dwelling older adults using clinical measures.
   - Model changes in postural control strategy using MATLAB stochastic control model.
 
-* Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab) (SU24-Present)
+* Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab)
+* **Location:** Wake Forest School of Medicine, Winston-Salem, NC
+* **Responsibilities:**
+  - Developed an ImageJ plugin with Java to quantify biomarker distribution along the gastrointestinal unit axis.
+  - Created novel computational analysis pipelines and contributed to the development of computational model-based image analysis methodologies to guide cancer microscopy imaging analysis.
+  - Writing a process paper titled "XXXX: A gastrointestinal spatial pathology plugin for ImageJ"
+  - Writing a paper concerning the 
 
 **Club(s)**
 
+
 * Member of [UIUC BMES](https://www.bmes-uiuc.com/): UIUC Chapter of Biomedical Engineering Society (FA23 - Present)
-  - Using [Alphafold](https://alphafold.ebi.ac.uk/) in order to find a shape of a protein based on a specific amino acid sequence or chain. The deep learning system will allow us to identify and perform predictions of protein structures. We want to identify protein components in order to link amino acids to activity of something in the body of an organism. To be presented at the SP 24 Engineering Open House  
+* Officer of [iPlan](https://one.illinois.edu/iplan/home/) (FA24 - Present)
+ 
 
     
 
 ## Former
 
 **Research**
-
-Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab)
-* **Duration:** SU 23
-* **Location:** Wake Forest School of Medicine, Winston-Salem, NC
-* **Responsibilities:**
-  - Developed an ImageJ plugin with Java to quantify biomarker distribution along the gastrointestinal unit axis.
-  - Created novel computational analysis pipelines and contributed to the development of computational model-based image analysis methodologies to guide cancer microscopy imaging analysis.
-  - Writing a process paper titled "XXXX: A gastrointestinal spatial pathology plugin for ImageJ" (In Progress, plugin title TBA).
 
 Research Assistant
 * **Duration:** FA 22 - SP 23
