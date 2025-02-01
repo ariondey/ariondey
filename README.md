@@ -33,16 +33,12 @@ I also have a academic interest in philosophy, specifically ethics and metaphysi
   - Model changes in postural control strategy using MATLAB stochastic control model.
 
 * Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab)
-* **Location:** Wake Forest School of Medicine, Winston-Salem, NC
-* **Responsibilities:**
   - Developed an ImageJ plugin with Java to quantify biomarker distribution along the gastrointestinal unit axis.
   - Created novel computational analysis pipelines and contributed to the development of computational model-based image analysis methodologies to guide cancer microscopy imaging analysis.
   - Writing a process paper titled "XXXX: A gastrointestinal spatial pathology plugin for ImageJ"
-  - Writing a paper concerning the 
+  - Writing a paper concerning neonatal rat pup intestinal motility using PAI
 
 **Club(s)**
-
-
 * Member of [UIUC BMES](https://www.bmes-uiuc.com/): UIUC Chapter of Biomedical Engineering Society (FA23 - Present)
 * Officer of [iPlan](https://one.illinois.edu/iplan/home/) (FA24 - Present)
  
