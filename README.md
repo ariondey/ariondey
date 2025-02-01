@@ -32,7 +32,7 @@ I also have a academic interest in philosophy, specifically ethics and metaphysi
   - Characterizing differences in postural control in community dwelling older adults using clinical measures.
   - Model changes in postural control strategy using MATLAB stochastic control model.
 
-* Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab)
+* Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab) (SU23-Present)
   - Developed an ImageJ plugin with Java to quantify biomarker distribution along the gastrointestinal unit axis.
   - Created novel computational analysis pipelines and contributed to the development of computational model-based image analysis methodologies to guide cancer microscopy imaging analysis.
   - Writing a process paper titled "XXXX: A gastrointestinal spatial pathology plugin for ImageJ"
