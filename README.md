@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # `🧬`
 
-Hello! My name is Arion and I'm a student studying molecular and cellular biology @ UIUC.
+Hello! My name is Arion and I'm a recent graduate in Molecular and Cellular Biology @ UIUC
 The realm of biology I (currently) enjoy most is some mixture of imaging, bioinformatics, and systems biology.
 Currently my primary interests lie in the application of machine learning and computational analysis to biological concepts.
 When I have rare additional time, I enjoy spending time talking about football (American and European) and reading (currently working through Brothers Karamazov by Dostoevsky).
