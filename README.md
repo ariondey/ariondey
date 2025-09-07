@@ -24,28 +24,26 @@ I also have a academic interest in philosophy, specifically ethics and metaphysi
 
 
 ## Current
-
-**Research**
-
-* [Mobility and Fall Prevention Research Laboratory](https://mfp.kch.illinois.edu/) (FA23-Present)
-  - Developing a model of fall risk and frailty using an analysis pipeline built in R.
-  - Characterizing differences in postural control in community dwelling older adults using clinical measures.
-  - Model changes in postural control strategy using MATLAB stochastic control model.
-
 * Biomedical Engineering and Informatics Intern @ [Weis Lab](https://school.wakehealth.edu/research/labs/weis-lab) (SU23-Present)
   - Developed an ImageJ plugin with Java to quantify biomarker distribution along the gastrointestinal unit axis.
   - Created novel computational analysis pipelines and contributed to the development of computational model-based image analysis methodologies to guide cancer microscopy imaging analysis.
   - Writing a process paper titled "XXXX: A gastrointestinal spatial pathology plugin for ImageJ"
   - Writing a paper concerning neonatal rat pup intestinal motility using PAI
 
+## Former
+**Research**
+* [Mobility and Fall Prevention Research Laboratory](https://mfp.kch.illinois.edu/) (FA23-SP25)
+  - Developing a model of fall risk and frailty using an analysis pipeline built in R.
+  - Characterizing differences in postural control in community dwelling older adults using clinical measures.
+  - Model changes in postural control strategy using MATLAB stochastic control model.
+  - Published Paper in postural control amongst older adults: https://www.mdpi.com/3387386
+
+
 **Club(s)**
 * Member of [UIUC BMES](https://www.bmes-uiuc.com/): UIUC Chapter of Biomedical Engineering Society (FA23 - Present)
 * Officer of [iPlan](https://one.illinois.edu/iplan/home/) (FA24 - Present)
  
 
-    
-
-## Former
 
 **Research**
 
